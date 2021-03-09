@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+
+    </head>
+    <body>
+        <a href="javascript: alert('HI')" id="alert">HI</a><br>
+        <a href="javascript: confirm('Are you sure')" id="confirm">CONFIRM</a><br>
+        <a href="javascript: let age = prompt('请输入年龄'); document.write(age)" id="prompt">PROMPT</a>
+        <form name="f1">
+            <input type="text" name="t1">
+            <input type="button" id="btn" value="Click me" onclick="f()">
+            <div id="id1"></div>
+        </form>
+    </body>
+    <script>
+        function f() {
+            window.setTimeout("populate()", 2000)
+        }
+        function populate() {
+            document.f1.t1.value = "populated";
+            document.getElementById("id1").innerHTML = "<div id='id2'>id 2</div>"
+        }
+    </script>
+</html>
