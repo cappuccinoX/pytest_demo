@@ -1,0 +1,2 @@
+grpcio # 用于测试grpc服务
+grpcio-tools # 用于测试grpc服务

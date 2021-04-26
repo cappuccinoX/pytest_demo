@@ -12,9 +12,9 @@ class MySQL(object):
         self.cur = self.db.cursor(cursor = pymysql.cursors.DictCursor)
     
     def exec_query(self, query):
-        self.cur.execute(query)
-        result = self.cur.fetchall()
-        return result
-
-    def close(self):
-        self.db.close()
+        try:
+            self.cur.execute(query)
+            result = self.cur.fetchall()
+            return result
+        finally:
+            self.db.close()
