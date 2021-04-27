@@ -21,7 +21,7 @@ setup(
 python3 setup.py sdist
 pip3 install dist/xxxx.tar.gz
 
-pytest-dependency 解决依赖执行的插件
+d 解决依赖执行的插件
 eg: @pytest.mark.dependency(depends=["类名::函数名", "类名::函数名"]) 
 或者直接写入函数名
 
