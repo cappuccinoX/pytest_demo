@@ -12,7 +12,7 @@ class RequestHandler(object):
             headers = kwargs.get('headers')
             rsp = requests.get(url, params = params, headers = headers)
             time_consuming = rsp.elapsed.microseconds/1000
-            logging.info('请求耗时: %s' % (time_consuming))
+            logging.info('请求耗时: %s ms' % (time_consuming))
             return rsp
         except Exception as e:
             logging.error('Get 请求 %s 错误: %s' % (url, e))
@@ -25,7 +25,7 @@ class RequestHandler(object):
             headers = kwargs.get('headers')
             rsp = requests.post(url, params = params, data = data, json = r_json, headers = headers)
             time_consuming = rsp.elapsed.microseconds/1000
-            logging.info('请求耗时: %s' % (time_consuming))
+            logging.info('请求耗时: %s ms' % (time_consuming))
             return rsp
         except Exception as e:
             logging.error('Post 请求 %s 错误: %s' % (url, e))
