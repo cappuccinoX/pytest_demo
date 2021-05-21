@@ -13,6 +13,7 @@ class Test_wehr():
         self.req_handler = RequestHandler()
 
     # 完善公司信息
+    @pytest.mark.dependency(name="")
     def test_complete_company_info(self, cookies, company_code, exam_code):
         res = self.req_handler.post(
             "https://wehr.qq.com/Home/Organ/companyDraft",
