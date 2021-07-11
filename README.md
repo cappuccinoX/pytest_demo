@@ -27,3 +27,5 @@ eg: @pytest.mark.dependency(depends=["类名::函数名", "类名::函数名"])
 
 运行命令举例
 pytest .\tests\test_db.py --html=test_db_report.html --capture=sys
+
+
