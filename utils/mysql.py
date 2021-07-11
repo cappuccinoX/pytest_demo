@@ -3,11 +3,11 @@ import pymysql
 class MySQL(object):
     def __init__(self):
         self.db = pymysql.connect(
-            host = '9.134.192.246',
+            host = '127.0.0.1',
             port = 3306,
-            user = 'mcd',
-            passwd = 'mcddev',
-            db = 'db_tencent_dna'
+            user = 'root',
+            passwd = '12345678',
+            db = 'jpress'
         )
         self.cur = self.db.cursor(cursor = pymysql.cursors.DictCursor)
     

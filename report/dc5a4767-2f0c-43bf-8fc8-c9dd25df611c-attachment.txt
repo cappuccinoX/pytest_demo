@@ -1,1 +1,0 @@
-[32mINFO    [0m root:test_db.py:9 ()

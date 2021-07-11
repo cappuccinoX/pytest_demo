@@ -13,9 +13,9 @@ def pytest_addoption(parser):
 def username(request):
     return request.config.getoption('--username')
 
-def pytest_configure(config):
-    config._metadata['项目名称'] = 'pytest_demo'
-    config._metadata.pop('JAVA_HOME')
+# def pytest_configure(config):
+#     config._metadata['项目名称'] = 'pytest_demo'
+#     config._metadata.pop('JAVA_HOME')
 
 @pytest.mark.optionalhook
 def pytest_html_results_summary(prefix):
