@@ -837,3 +837,6 @@
 2021-07-12 17:57:34,509 - INFO - 请求耗时: 3.175 ms
 2021-07-12 17:57:34,509 - INFO - 请求耗时: 3.175 ms
 2021-07-12 17:57:34,509 - INFO - 请求耗时: 3.175 ms
+2021-07-12 20:58:01,968 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 21:00:01,696 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 21:06:29,004 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]

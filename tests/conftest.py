@@ -17,6 +17,5 @@ def get_token():
     json_response = json.loads(r.text)
     return json_response["token"]
 
-
 if __name__ == "__main__":
     print(get_token())

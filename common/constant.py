@@ -1,1 +1,5 @@
 DEMO_HOST = "http://localhost:3000"
+DB_HOST="127.0.0.1"
+USER="root"
+PASSWORD="12345678"
+DB="test_demo"

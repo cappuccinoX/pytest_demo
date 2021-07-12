@@ -1,24 +1,25 @@
-import py
+import os, sys
+sys.path.append(os.getcwd())
 import pytest
-import logging
 import pymysql
 import json
 from utils.mysql import MySQL
-from utils.file import ReadData
-from utils.log import Log
+from common.constant import DEMO_HOST, DB_HOST, DB_PORT, USER, PASSWORD, DB
+class TestDB():
+    
+    def setup_class(self):
+        db = MySQL(DB_HOST, DB_PORT, USER, PASSWORD, DB)
+        self.cur = db.cursor(cursor = pymysql.cursors.DictCursor)
 
-@pytest.mark.usefixtures('tips')
-def test_db(tips):
-    mysql = MySQL()
-    data = mysql.exec_query("SELECT * FROM `exam` where code in ('4A65EFEB94F5C11B81ED');")
-    Log.info(json.dumps(data))
-    mysql.close()
+    
+    def test_db(self):
+        self.cur.execute("SELECT * FROM test_demo.medicine_info;")
+        result = self.cur.fetchall()
+        print(result)
 
-ids = [
-    '姓名: {}, 年龄: {}, 性别: {}'.
-        format(data['name'], data['age'], data['sex']) for data in ReadData.read_json('profile.json')
-]
-
-@pytest.mark.parametrize('name, age, sex', ReadData.read_json('profile.json'), ids = ids)
-def test_01(name, age, sex):
-    Log.info('Name is {name}, age is {age}, sex is {sex}'.format(name = name, age = age, sex = sex))
+if __name__ == "__main__":
+    pytest.main([
+        "-s",
+        "-v",
+        f"{os.path.abspath('tests')}/test_db.py"
+    ])

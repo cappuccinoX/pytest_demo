@@ -1,13 +1,15 @@
+import sys, os
+sys.path.append(os.getcwd())
 import pymysql
 
 class MySQL(object):
-    def __init__(self):
+    def __init__(self, host, port, user, passwd, db):
         self.db = pymysql.connect(
-            host = '127.0.0.1',
-            port = 3306,
-            user = 'root',
-            passwd = '12345678',
-            db = 'jpress'
+            host = host,
+            port = port,
+            user = user,
+            passwd = passwd,
+            db = db
         )
         self.cur = self.db.cursor(cursor = pymysql.cursors.DictCursor)
     
@@ -18,3 +20,8 @@ class MySQL(object):
             return result
         finally:
             self.db.close()
+
+if __name__ == "__main__":
+    sql = MySQL()
+    result = sql.exec_query("SELECT * FROM test_demo.medicine_info;")
+    print(result)
