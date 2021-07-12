@@ -519,3 +519,321 @@
 2021-07-12 13:04:03,514 - INFO - 请求耗时: 2.19 ms
 2021-07-12 13:04:03,514 - INFO - 请求耗时: 2.19 ms
 2021-07-12 13:04:03,514 - INFO - 请求耗时: 2.19 ms
+2021-07-12 16:59:24,314 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 16:59:24,424 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 16:59:24,424 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 16:59:24,424 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 16:59:24,435 - INFO - 请求耗时: 6.061 ms
+2021-07-12 16:59:24,435 - INFO - 请求耗时: 6.061 ms
+2021-07-12 16:59:24,435 - INFO - 请求耗时: 6.061 ms
+2021-07-12 16:59:24,617 - INFO - 请求地址: http://localhost:3000/user/findMedicine
+2021-07-12 16:59:24,617 - INFO - 请求地址: http://localhost:3000/user/findMedicine
+2021-07-12 16:59:24,617 - INFO - 请求地址: http://localhost:3000/user/findMedicine
+2021-07-12 16:59:24,625 - INFO - 请求耗时: 4.982 ms
+2021-07-12 16:59:24,625 - INFO - 请求耗时: 4.982 ms
+2021-07-12 16:59:24,625 - INFO - 请求耗时: 4.982 ms
+2021-07-12 17:00:03,573 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:00:03,622 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:00:03,622 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:00:03,622 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:00:03,641 - INFO - 请求耗时: 6.262 ms
+2021-07-12 17:00:03,641 - INFO - 请求耗时: 6.262 ms
+2021-07-12 17:00:03,641 - INFO - 请求耗时: 6.262 ms
+2021-07-12 17:00:03,825 - INFO - 请求地址: http://localhost:3000/user/findMedicine
+2021-07-12 17:00:03,825 - INFO - 请求地址: http://localhost:3000/user/findMedicine
+2021-07-12 17:00:03,825 - INFO - 请求地址: http://localhost:3000/user/findMedicine
+2021-07-12 17:00:03,839 - INFO - 请求耗时: 6.548 ms
+2021-07-12 17:00:03,839 - INFO - 请求耗时: 6.548 ms
+2021-07-12 17:00:03,839 - INFO - 请求耗时: 6.548 ms
+2021-07-12 17:16:40,191 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:16:40,216 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:16:40,216 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:16:40,216 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:16:40,220 - INFO - 请求耗时: 2.304 ms
+2021-07-12 17:16:40,220 - INFO - 请求耗时: 2.304 ms
+2021-07-12 17:16:40,220 - INFO - 请求耗时: 2.304 ms
+2021-07-12 17:16:40,299 - INFO - 请求地址: http://localhost:3000/user/findMedicine
+2021-07-12 17:16:40,299 - INFO - 请求地址: http://localhost:3000/user/findMedicine
+2021-07-12 17:16:40,299 - INFO - 请求地址: http://localhost:3000/user/findMedicine
+2021-07-12 17:16:40,303 - INFO - 请求耗时: 1.989 ms
+2021-07-12 17:16:40,303 - INFO - 请求耗时: 1.989 ms
+2021-07-12 17:16:40,303 - INFO - 请求耗时: 1.989 ms
+2021-07-12 17:28:03,951 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:28:04,080 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:28:04,080 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:28:04,111 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:28:04,111 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:28:04,111 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:28:04,111 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:28:04,119 - INFO - 请求耗时: 3.906 ms
+2021-07-12 17:28:04,119 - INFO - 请求耗时: 3.906 ms
+2021-07-12 17:28:04,119 - INFO - 请求耗时: 3.906 ms
+2021-07-12 17:28:04,119 - INFO - 请求耗时: 3.906 ms
+2021-07-12 17:28:04,213 - INFO - 请求地址: http://localhost:3000/user/findMedicine
+2021-07-12 17:28:04,213 - INFO - 请求地址: http://localhost:3000/user/findMedicine
+2021-07-12 17:28:04,213 - INFO - 请求地址: http://localhost:3000/user/findMedicine
+2021-07-12 17:28:04,213 - INFO - 请求地址: http://localhost:3000/user/findMedicine
+2021-07-12 17:28:04,221 - INFO - 请求耗时: 4.68 ms
+2021-07-12 17:28:04,221 - INFO - 请求耗时: 4.68 ms
+2021-07-12 17:28:04,221 - INFO - 请求耗时: 4.68 ms
+2021-07-12 17:28:04,221 - INFO - 请求耗时: 4.68 ms
+2021-07-12 17:29:49,882 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:29:49,995 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:29:49,995 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:29:50,022 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:29:50,022 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:29:50,022 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:29:50,022 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:29:50,031 - INFO - 请求耗时: 3.39 ms
+2021-07-12 17:29:50,031 - INFO - 请求耗时: 3.39 ms
+2021-07-12 17:29:50,031 - INFO - 请求耗时: 3.39 ms
+2021-07-12 17:29:50,031 - INFO - 请求耗时: 3.39 ms
+2021-07-12 17:29:50,118 - INFO - 请求地址: http://localhost:3000/user/findMedicine
+2021-07-12 17:29:50,118 - INFO - 请求地址: http://localhost:3000/user/findMedicine
+2021-07-12 17:29:50,118 - INFO - 请求地址: http://localhost:3000/user/findMedicine
+2021-07-12 17:29:50,118 - INFO - 请求地址: http://localhost:3000/user/findMedicine
+2021-07-12 17:29:50,123 - INFO - 请求耗时: 2.087 ms
+2021-07-12 17:29:50,123 - INFO - 请求耗时: 2.087 ms
+2021-07-12 17:29:50,123 - INFO - 请求耗时: 2.087 ms
+2021-07-12 17:29:50,123 - INFO - 请求耗时: 2.087 ms
+2021-07-12 17:31:18,351 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:31:18,486 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:31:18,486 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:31:18,515 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:31:18,515 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:31:18,515 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:31:18,515 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:31:18,520 - INFO - 请求耗时: 2.361 ms
+2021-07-12 17:31:18,520 - INFO - 请求耗时: 2.361 ms
+2021-07-12 17:31:18,520 - INFO - 请求耗时: 2.361 ms
+2021-07-12 17:31:18,520 - INFO - 请求耗时: 2.361 ms
+2021-07-12 17:31:18,614 - INFO - 请求地址: http://localhost:3000/user/findMedicine
+2021-07-12 17:31:18,614 - INFO - 请求地址: http://localhost:3000/user/findMedicine
+2021-07-12 17:31:18,614 - INFO - 请求地址: http://localhost:3000/user/findMedicine
+2021-07-12 17:31:18,614 - INFO - 请求地址: http://localhost:3000/user/findMedicine
+2021-07-12 17:31:18,618 - INFO - 请求耗时: 1.926 ms
+2021-07-12 17:31:18,618 - INFO - 请求耗时: 1.926 ms
+2021-07-12 17:31:18,618 - INFO - 请求耗时: 1.926 ms
+2021-07-12 17:31:18,618 - INFO - 请求耗时: 1.926 ms
+2021-07-12 17:31:34,116 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:31:34,235 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:31:34,235 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:31:34,268 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:31:34,268 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:31:34,268 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:31:34,268 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:31:34,276 - INFO - 请求耗时: 5.526 ms
+2021-07-12 17:31:34,276 - INFO - 请求耗时: 5.526 ms
+2021-07-12 17:31:34,276 - INFO - 请求耗时: 5.526 ms
+2021-07-12 17:31:34,276 - INFO - 请求耗时: 5.526 ms
+2021-07-12 17:31:34,381 - INFO - 请求地址: http://localhost:3000/user/findMedicine
+2021-07-12 17:31:34,381 - INFO - 请求地址: http://localhost:3000/user/findMedicine
+2021-07-12 17:31:34,381 - INFO - 请求地址: http://localhost:3000/user/findMedicine
+2021-07-12 17:31:34,381 - INFO - 请求地址: http://localhost:3000/user/findMedicine
+2021-07-12 17:31:34,385 - INFO - 请求耗时: 1.931 ms
+2021-07-12 17:31:34,385 - INFO - 请求耗时: 1.931 ms
+2021-07-12 17:31:34,385 - INFO - 请求耗时: 1.931 ms
+2021-07-12 17:31:34,385 - INFO - 请求耗时: 1.931 ms
+2021-07-12 17:33:07,235 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:33:07,378 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:33:07,378 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:33:07,404 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:33:07,404 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:33:07,404 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:33:07,404 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:33:07,410 - INFO - 请求耗时: 3.298 ms
+2021-07-12 17:33:07,410 - INFO - 请求耗时: 3.298 ms
+2021-07-12 17:33:07,410 - INFO - 请求耗时: 3.298 ms
+2021-07-12 17:33:07,410 - INFO - 请求耗时: 3.298 ms
+2021-07-12 17:33:26,656 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:33:26,797 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:33:26,797 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:33:26,827 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:33:26,827 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:33:26,827 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:33:26,827 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:33:26,833 - INFO - 请求耗时: 2.027 ms
+2021-07-12 17:33:26,833 - INFO - 请求耗时: 2.027 ms
+2021-07-12 17:33:26,833 - INFO - 请求耗时: 2.027 ms
+2021-07-12 17:33:26,833 - INFO - 请求耗时: 2.027 ms
+2021-07-12 17:33:31,756 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:33:31,883 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:33:31,883 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:33:31,910 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:33:31,910 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:33:31,910 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:33:31,910 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:33:31,914 - INFO - 请求耗时: 2.777 ms
+2021-07-12 17:33:31,914 - INFO - 请求耗时: 2.777 ms
+2021-07-12 17:33:31,914 - INFO - 请求耗时: 2.777 ms
+2021-07-12 17:33:31,914 - INFO - 请求耗时: 2.777 ms
+2021-07-12 17:35:19,820 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:35:19,950 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:35:19,950 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:35:19,981 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:35:19,981 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:35:19,981 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:35:19,981 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:35:19,987 - INFO - 请求耗时: 3.547 ms
+2021-07-12 17:35:19,987 - INFO - 请求耗时: 3.547 ms
+2021-07-12 17:35:19,987 - INFO - 请求耗时: 3.547 ms
+2021-07-12 17:35:19,987 - INFO - 请求耗时: 3.547 ms
+2021-07-12 17:49:48,579 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:49:48,709 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:49:48,709 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:49:48,733 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:49:48,733 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:49:48,733 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:49:48,733 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:49:48,733 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:49:48,742 - INFO - 请求耗时: 3.856 ms
+2021-07-12 17:49:48,742 - INFO - 请求耗时: 3.856 ms
+2021-07-12 17:49:48,742 - INFO - 请求耗时: 3.856 ms
+2021-07-12 17:49:48,742 - INFO - 请求耗时: 3.856 ms
+2021-07-12 17:49:48,742 - INFO - 请求耗时: 3.856 ms
+2021-07-12 17:49:48,749 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:49:48,749 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:49:48,749 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:49:48,749 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:49:48,749 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:49:48,757 - INFO - 请求耗时: 3.071 ms
+2021-07-12 17:49:48,757 - INFO - 请求耗时: 3.071 ms
+2021-07-12 17:49:48,757 - INFO - 请求耗时: 3.071 ms
+2021-07-12 17:49:48,757 - INFO - 请求耗时: 3.071 ms
+2021-07-12 17:49:48,757 - INFO - 请求耗时: 3.071 ms
+2021-07-12 17:49:48,765 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:49:48,765 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:49:48,765 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:49:48,765 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:49:48,765 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:49:48,772 - INFO - 请求耗时: 4.641 ms
+2021-07-12 17:49:48,772 - INFO - 请求耗时: 4.641 ms
+2021-07-12 17:49:48,772 - INFO - 请求耗时: 4.641 ms
+2021-07-12 17:49:48,772 - INFO - 请求耗时: 4.641 ms
+2021-07-12 17:49:48,772 - INFO - 请求耗时: 4.641 ms
+2021-07-12 17:49:48,781 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:49:48,781 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:49:48,781 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:49:48,781 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:49:48,781 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:49:48,789 - INFO - 请求耗时: 2.292 ms
+2021-07-12 17:49:48,789 - INFO - 请求耗时: 2.292 ms
+2021-07-12 17:49:48,789 - INFO - 请求耗时: 2.292 ms
+2021-07-12 17:49:48,789 - INFO - 请求耗时: 2.292 ms
+2021-07-12 17:49:48,789 - INFO - 请求耗时: 2.292 ms
+2021-07-12 17:49:48,799 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:49:48,799 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:49:48,799 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:49:48,799 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:49:48,799 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:49:48,804 - INFO - 请求耗时: 2.53 ms
+2021-07-12 17:49:48,804 - INFO - 请求耗时: 2.53 ms
+2021-07-12 17:49:48,804 - INFO - 请求耗时: 2.53 ms
+2021-07-12 17:49:48,804 - INFO - 请求耗时: 2.53 ms
+2021-07-12 17:49:48,804 - INFO - 请求耗时: 2.53 ms
+2021-07-12 17:52:34,097 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:52:34,231 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:52:34,231 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:52:34,252 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:52:34,252 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:52:34,252 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:52:34,252 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:52:34,252 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:52:34,257 - INFO - 请求耗时: 2.151 ms
+2021-07-12 17:52:34,257 - INFO - 请求耗时: 2.151 ms
+2021-07-12 17:52:34,257 - INFO - 请求耗时: 2.151 ms
+2021-07-12 17:52:34,257 - INFO - 请求耗时: 2.151 ms
+2021-07-12 17:52:34,257 - INFO - 请求耗时: 2.151 ms
+2021-07-12 17:52:34,266 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:52:34,266 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:52:34,266 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:52:34,266 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:52:34,266 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:52:34,270 - INFO - 请求耗时: 1.999 ms
+2021-07-12 17:52:34,270 - INFO - 请求耗时: 1.999 ms
+2021-07-12 17:52:34,270 - INFO - 请求耗时: 1.999 ms
+2021-07-12 17:52:34,270 - INFO - 请求耗时: 1.999 ms
+2021-07-12 17:52:34,270 - INFO - 请求耗时: 1.999 ms
+2021-07-12 17:52:34,277 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:52:34,277 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:52:34,277 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:52:34,277 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:52:34,277 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:52:34,284 - INFO - 请求耗时: 4.748 ms
+2021-07-12 17:52:34,284 - INFO - 请求耗时: 4.748 ms
+2021-07-12 17:52:34,284 - INFO - 请求耗时: 4.748 ms
+2021-07-12 17:52:34,284 - INFO - 请求耗时: 4.748 ms
+2021-07-12 17:52:34,284 - INFO - 请求耗时: 4.748 ms
+2021-07-12 17:52:34,290 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:52:34,290 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:52:34,290 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:52:34,290 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:52:34,290 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:52:34,296 - INFO - 请求耗时: 2.88 ms
+2021-07-12 17:52:34,296 - INFO - 请求耗时: 2.88 ms
+2021-07-12 17:52:34,296 - INFO - 请求耗时: 2.88 ms
+2021-07-12 17:52:34,296 - INFO - 请求耗时: 2.88 ms
+2021-07-12 17:52:34,296 - INFO - 请求耗时: 2.88 ms
+2021-07-12 17:52:34,306 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:52:34,306 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:52:34,306 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:52:34,306 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:52:34,306 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:52:34,311 - INFO - 请求耗时: 2.433 ms
+2021-07-12 17:52:34,311 - INFO - 请求耗时: 2.433 ms
+2021-07-12 17:52:34,311 - INFO - 请求耗时: 2.433 ms
+2021-07-12 17:52:34,311 - INFO - 请求耗时: 2.433 ms
+2021-07-12 17:52:34,311 - INFO - 请求耗时: 2.433 ms
+2021-07-12 17:57:34,307 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:57:34,433 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:57:34,433 - INFO - [['/user/medicine', 3, 10], ['/user/medicine', -1, 21], ['/user/medicine', 6, 21], ['/user/medicine', '', 20]]
+2021-07-12 17:57:34,454 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:57:34,454 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:57:34,454 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:57:34,454 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:57:34,454 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:57:34,459 - INFO - 请求耗时: 2.613 ms
+2021-07-12 17:57:34,459 - INFO - 请求耗时: 2.613 ms
+2021-07-12 17:57:34,459 - INFO - 请求耗时: 2.613 ms
+2021-07-12 17:57:34,459 - INFO - 请求耗时: 2.613 ms
+2021-07-12 17:57:34,459 - INFO - 请求耗时: 2.613 ms
+2021-07-12 17:57:34,468 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:57:34,468 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:57:34,468 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:57:34,468 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:57:34,468 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:57:34,473 - INFO - 请求耗时: 2.032 ms
+2021-07-12 17:57:34,473 - INFO - 请求耗时: 2.032 ms
+2021-07-12 17:57:34,473 - INFO - 请求耗时: 2.032 ms
+2021-07-12 17:57:34,473 - INFO - 请求耗时: 2.032 ms
+2021-07-12 17:57:34,473 - INFO - 请求耗时: 2.032 ms
+2021-07-12 17:57:34,479 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:57:34,479 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:57:34,479 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:57:34,479 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:57:34,479 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:57:34,485 - INFO - 请求耗时: 1.925 ms
+2021-07-12 17:57:34,485 - INFO - 请求耗时: 1.925 ms
+2021-07-12 17:57:34,485 - INFO - 请求耗时: 1.925 ms
+2021-07-12 17:57:34,485 - INFO - 请求耗时: 1.925 ms
+2021-07-12 17:57:34,485 - INFO - 请求耗时: 1.925 ms
+2021-07-12 17:57:34,491 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:57:34,491 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:57:34,491 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:57:34,491 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:57:34,491 - INFO - 请求地址: http://localhost:3000/user/medicine
+2021-07-12 17:57:34,496 - INFO - 请求耗时: 2.483 ms
+2021-07-12 17:57:34,496 - INFO - 请求耗时: 2.483 ms
+2021-07-12 17:57:34,496 - INFO - 请求耗时: 2.483 ms
+2021-07-12 17:57:34,496 - INFO - 请求耗时: 2.483 ms
+2021-07-12 17:57:34,496 - INFO - 请求耗时: 2.483 ms
+2021-07-12 17:57:34,503 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:57:34,503 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:57:34,503 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:57:34,503 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:57:34,503 - INFO - 请求地址: http://localhost:3000/user/add
+2021-07-12 17:57:34,509 - INFO - 请求耗时: 3.175 ms
+2021-07-12 17:57:34,509 - INFO - 请求耗时: 3.175 ms
+2021-07-12 17:57:34,509 - INFO - 请求耗时: 3.175 ms
+2021-07-12 17:57:34,509 - INFO - 请求耗时: 3.175 ms
+2021-07-12 17:57:34,509 - INFO - 请求耗时: 3.175 ms

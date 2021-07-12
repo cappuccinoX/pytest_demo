@@ -1,3 +1,4 @@
 pytest-html # 测试报告
 pymysql
+pytest-dependency
 xlrd(1.2.0)
