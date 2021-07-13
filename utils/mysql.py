@@ -6,7 +6,6 @@ class MySQL(object):
     def __init__(self, host, port, user, passwd, db):
         self.db = pymysql.connect(
             host = host,
-            port = port,
             user = user,
             passwd = passwd,
             db = db
@@ -22,6 +21,6 @@ class MySQL(object):
             self.db.close()
 
 if __name__ == "__main__":
-    sql = MySQL()
-    result = sql.exec_query("SELECT * FROM test_demo.medicine_info;")
+    sql = MySQL("10.200.25.32", 3306, "hydee", "hydee@soft123", "hydee")
+    result = sql.exec_query("select id,inter_type,order_amt,await_flag from u_interface_sale_indent_m where platformno='0001';")
     print(result)

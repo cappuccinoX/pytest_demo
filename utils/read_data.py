@@ -1,6 +1,8 @@
 '''
 提供读取各类测试文件的函数
 '''
+import sys, os
+sys.path.append(os.getcwd())
 import json, csv, xlrd, os, datetime
 from xlrd import xldate_as_tuple
 from utils.log import Logger
@@ -13,9 +15,9 @@ class ReadData(object):
         self.file_path = f"{self.root_dir}/{file_name}"
         self.logger = Logger().get_logger()
 
-    def read_json(self, file_name):
+    def read_json(self):
         try:
-            with open(self.file_path + file_name) as file:
+            with open(self.file_path, encoding="utf-8") as file:
                 json_data = json.loads(file.read())
             return json_data
         except Exception as e:
@@ -66,5 +68,6 @@ class ReadData(object):
         return
 
 if __name__ == "__main__":
-    r = ReadData("test_demo.xlsx")
-    r.read_excel()
+    r = ReadData("lingshou.xlsx")
+    f = r.read_excel()
+    print(f)
