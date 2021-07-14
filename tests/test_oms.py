@@ -7,6 +7,7 @@ from utils.http import RequestHandler
 from utils.assertions import Assertions
 import pytest
 from utils.db import SQLServer
+import random
 
 class TestOMS():
 
@@ -29,13 +30,22 @@ class TestOMS():
         ReadData("lingshou.xlsx").read_excel()
     )
     def test_lingshou(self, url, id, chailing, good_count, expected_inventory_diff, remark, expected_code):
+        order_no = str(random.randint(555555, 9999999999))
+        self.logger.info(f"随机生成订单号: {order_no}")
+        # 零售前查询库存
+        sql_shouqian = f"select sumqty as '总库存' from u_store_m where wareid = '{id}' and busno='0001'"
+        shouqian = self.sql_server.exec_query(sql_shouqian)
 
+        if len(shouqian) == 0:
+            self.logger.error(f"根据条件wareid = '{id}' and busno='0001'查询u_store_m表没有数据")
+            assert False
+        val1 = float(shouqian[0][0])
         lingshou_data = {
             "mercode": "888888",
             "signType": "RSA2",
             "signTimestamp": 1609903095815,
             "sign": "nYeSqG2HJH/cnXUYkzXp5P6o9PnuAsG9VDZV//ruJezy9d1aIRXuMlU2qtciMs+77hfdc03ZG/Se3h7LwgTCV2X4jkE1ZQNsmABMbYXmbz0qclrwJiGpXv76CuTRpC3PE+tip1MyyD2mRIBsj3SROzSWvf08Jn0aq2p5tLomzpfOUDijkp5fw19A1RK2Oh5fjBbTZ1uKV2XEFVj3ip/fvsVm8/0yFB/R6wiwLnV4Aq5O6L9xyvWyjiWoMEidbiJ5Z5o5lML/R2UrFvjyCZfrnk842eyXTC2SZIHohyLY0l1TMKP/Ox+1Pi54nocpsBz5ADeAKwo3b5/4ZyPeDAYQTA==",
-            "orderNo": "111",
+            "orderNo": order_no,
             "orderType": 0,
             "prescriptionFlag": 0,
             "deliveryTimeType": 0,
@@ -64,7 +74,7 @@ class TestOMS():
             "created": 1609902802000,
             "dayNum": "7",
             "acceptTime": 1609902813000,
-            "memberNo": "20200421000001", 
+            "memberNo": "20200421000001",
             "userId": "1010 ",
             "deliveryUserId": "1010 ",
             "payCode": "809081",
@@ -75,8 +85,8 @@ class TestOMS():
             "healthNum":0,
             "healthValue":0,
             "ware": [
-                {
-                    "erpCode": "000434",
+                    {
+                    "erpCode": id,
                     "goodsName": "永孜堂小黄订单测试商品【000175】ha 0.4克*12片*3板",
                     "goodsType": 1,
                     "batchNo": "222222",
@@ -88,7 +98,7 @@ class TestOMS():
                     "billPrice": 36.11,
                     "status": 0,
                     "chailing": chailing
-                }
+                },
             ],
                 "payTypeList": [
                 {
@@ -103,12 +113,8 @@ class TestOMS():
                 }
             ],
             "paytype": "线上支付",
-            "adjustno": ""
+            "adjustno": None
         }
-        # 零售前查询库存
-        sql_shouqian = "select sumqty as '总库存' from u_store_m where wareid ='000434' and busno='0001'"
-        shouqian = self.sql_server.exec_query(sql_shouqian)
-        val1 = float(shouqian[0][0])
 
         # 调取零售接口
         rsp = self.request_handler.post(
@@ -116,10 +122,15 @@ class TestOMS():
             json = lingshou_data,
         )
         json_body = json.loads(rsp.text)
-        self.assertions.assert_value(json_body, expected_code, "code")
+        assert json_body["code"] == expected_code
         # 零售后查询库存
-        sql_shouhou = "select sumqty as '总库存' from u_store_m where wareid ='000434' and busno='0001'"
+        sql_shouhou = f"select sumqty as '总库存' from u_store_m where wareid = '{id}' and busno='0001'"
         shouhou = self.sql_server.exec_query(sql_shouhou)
+
+        if len(shouhou) == 0:
+            self.logger.error(f"根据条件wareid = '{id}' and busno='0001'查询u_store_m表没有数据")
+            assert False
+
         val2 = float(shouhou[0][0])
         assert val2 - val1 == expected_inventory_diff
 

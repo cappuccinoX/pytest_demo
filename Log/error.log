@@ -1,0 +1,29 @@
+2021-07-13 18:00:42,270 - ERROR - http.py[:31] - Post 请求 http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2 错误: HTTPConnectionPool(host='127.0.0.1', port=8001): Max retries exceeded with url: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))
+2021-07-13 18:00:42,270 - ERROR - http.py[:31] - Post 请求 http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2 错误: HTTPConnectionPool(host='127.0.0.1', port=8001): Max retries exceeded with url: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))
+2021-07-13 18:00:42,270 - ERROR - http.py[:31] - Post 请求 http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2 错误: HTTPConnectionPool(host='127.0.0.1', port=8001): Max retries exceeded with url: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))
+2021-07-13 18:00:42,270 - ERROR - http.py[:31] - Post 请求 http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2 错误: HTTPConnectionPool(host='127.0.0.1', port=8001): Max retries exceeded with url: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))
+2021-07-14 19:25:51,752 - ERROR - test_oms.py[:40] - 222
+2021-07-14 19:25:51,752 - ERROR - test_oms.py[:40] - 222
+2021-07-14 19:25:51,752 - ERROR - test_oms.py[:40] - 222
+2021-07-14 19:25:51,752 - ERROR - test_oms.py[:40] - 222
+2021-07-14 19:25:51,752 - ERROR - test_oms.py[:40] - 222
+2021-07-14 19:50:41,386 - ERROR - assertions.py[:39] - Error happened in assert_text func, meet error: 
+2021-07-14 19:50:41,386 - ERROR - assertions.py[:39] - Error happened in assert_text func, meet error: 
+2021-07-14 19:50:41,386 - ERROR - assertions.py[:39] - Error happened in assert_text func, meet error: 
+2021-07-14 19:50:41,386 - ERROR - assertions.py[:39] - Error happened in assert_text func, meet error: 
+2021-07-14 19:50:41,386 - ERROR - assertions.py[:39] - Error happened in assert_text func, meet error: 
+2021-07-14 19:52:28,475 - ERROR - assertions.py[:40] - Error happened in assert_text func, meet error: 
+2021-07-14 19:52:28,475 - ERROR - assertions.py[:40] - Error happened in assert_text func, meet error: 
+2021-07-14 19:52:28,475 - ERROR - assertions.py[:40] - Error happened in assert_text func, meet error: 
+2021-07-14 19:52:28,475 - ERROR - assertions.py[:40] - Error happened in assert_text func, meet error: 
+2021-07-14 19:52:28,475 - ERROR - assertions.py[:40] - Error happened in assert_text func, meet error: 
+2021-07-14 19:53:28,485 - ERROR - assertions.py[:39] - Error happened in assert_text func, meet error: 
+2021-07-14 19:53:28,485 - ERROR - assertions.py[:39] - Error happened in assert_text func, meet error: 
+2021-07-14 19:53:28,485 - ERROR - assertions.py[:39] - Error happened in assert_text func, meet error: 
+2021-07-14 19:53:28,485 - ERROR - assertions.py[:39] - Error happened in assert_text func, meet error: 
+2021-07-14 19:53:28,485 - ERROR - assertions.py[:39] - Error happened in assert_text func, meet error: 
+2021-07-14 19:55:19,346 - ERROR - assertions.py[:41] - Error happened in assert_text func, meet error: 
+2021-07-14 19:55:19,346 - ERROR - assertions.py[:41] - Error happened in assert_text func, meet error: 
+2021-07-14 19:55:19,346 - ERROR - assertions.py[:41] - Error happened in assert_text func, meet error: 
+2021-07-14 19:55:19,346 - ERROR - assertions.py[:41] - Error happened in assert_text func, meet error: 
+2021-07-14 19:55:19,346 - ERROR - assertions.py[:41] - Error happened in assert_text func, meet error: 

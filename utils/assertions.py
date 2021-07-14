@@ -34,6 +34,6 @@ class Assertions(object):
         '''
         try:
             actual_value = body[key]
-            assert(f'检查{key}对应值:', actual_value == expected_value)
+            assert actual_value == expected_value
         except Exception as e:
             self.logger.error('Error happened in assert_text func, meet error: %s' % e)

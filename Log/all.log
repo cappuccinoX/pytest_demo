@@ -1,0 +1,499 @@
+2021-07-14 16:32:28,146 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', 357, 1, 1, -1, 10, '1']]
+2021-07-14 16:32:28,400 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', 357, 1, 1, -1, 10, '1']]
+2021-07-14 16:32:28,400 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', 357, 1, 1, -1, 10, '1']]
+2021-07-14 16:32:28,507 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 16:32:28,507 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 16:32:28,507 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 16:32:28,507 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 16:32:28,507 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 16:32:28,717 - INFO - 请求耗时: 203.438 ms
+2021-07-14 16:32:28,717 - INFO - 请求耗时: 203.438 ms
+2021-07-14 16:32:28,717 - INFO - 请求耗时: 203.438 ms
+2021-07-14 16:32:28,717 - INFO - 请求耗时: 203.438 ms
+2021-07-14 16:32:28,717 - INFO - 请求耗时: 203.438 ms
+2021-07-14 16:38:15,548 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', 357, 1, 1, -1, 10, '1']]
+2021-07-14 16:38:15,699 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', 357, 1, 1, -1, 10, '1']]
+2021-07-14 16:38:15,699 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', 357, 1, 1, -1, 10, '1']]
+2021-07-14 16:38:15,783 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 16:38:15,783 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 16:38:15,783 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 16:38:15,783 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 16:38:15,783 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 16:38:16,068 - INFO - 请求耗时: 278.272 ms
+2021-07-14 16:38:16,068 - INFO - 请求耗时: 278.272 ms
+2021-07-14 16:38:16,068 - INFO - 请求耗时: 278.272 ms
+2021-07-14 16:38:16,068 - INFO - 请求耗时: 278.272 ms
+2021-07-14 16:38:16,068 - INFO - 请求耗时: 278.272 ms
+2021-07-14 18:22:48,849 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:27:02,677 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:27:02,825 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:27:02,825 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:27:37,053 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:27:37,211 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:27:37,211 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:27:49,724 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:27:49,862 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:27:49,862 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:28:13,457 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:28:13,583 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:28:13,583 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:28:23,005 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:28:23,141 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:28:23,141 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:28:43,671 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:28:43,806 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:28:43,806 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:29:23,524 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:29:23,664 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:29:23,664 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:29:35,200 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:29:35,311 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:29:35,311 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:30:01,394 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:30:01,533 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:30:01,533 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:31:36,710 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:31:36,879 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:31:36,879 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:31:54,654 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:31:54,799 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:31:54,799 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 18:58:20,125 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:01:25,407 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:02:06,038 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:03:42,638 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:06:38,860 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:07:20,903 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:09:37,249 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:10:05,672 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:10:22,867 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:14:12,913 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:14:52,788 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:15:33,652 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:15:33,722 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:15:33,722 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:15:33,722 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:15:33,722 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:15:33,907 - INFO - 请求耗时: 163.926 ms
+2021-07-14 19:15:33,907 - INFO - 请求耗时: 163.926 ms
+2021-07-14 19:15:33,907 - INFO - 请求耗时: 163.926 ms
+2021-07-14 19:15:33,907 - INFO - 请求耗时: 163.926 ms
+2021-07-14 19:15:58,217 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:17:36,411 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:17:36,559 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:17:36,559 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:18:16,177 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:18:16,324 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:18:16,324 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:22:00,867 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:22:01,044 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:22:01,044 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:22:08,983 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:22:09,126 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:22:09,126 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:22:29,630 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:22:29,755 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:22:29,755 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:24:58,302 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:24:58,459 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:24:58,459 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:25:35,046 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:25:35,178 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:25:35,178 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:25:35,251 - INFO - 222
+2021-07-14 19:25:35,251 - INFO - 222
+2021-07-14 19:25:35,251 - INFO - 222
+2021-07-14 19:25:35,251 - INFO - 222
+2021-07-14 19:25:35,251 - INFO - 222
+2021-07-14 19:25:51,536 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:25:51,678 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:25:51,678 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '00434', 1, 1, -1, 10, '1']]
+2021-07-14 19:25:51,752 - ERROR - 222
+2021-07-14 19:25:51,752 - ERROR - 222
+2021-07-14 19:25:51,752 - ERROR - 222
+2021-07-14 19:25:51,752 - ERROR - 222
+2021-07-14 19:25:51,752 - ERROR - 222
+2021-07-14 19:26:38,816 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:31:36,323 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:31:36,479 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:31:36,479 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:31:36,551 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:31:36,551 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:31:36,551 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:31:36,551 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:31:36,551 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:31:36,717 - INFO - 请求耗时: 161.393 ms
+2021-07-14 19:31:36,717 - INFO - 请求耗时: 161.393 ms
+2021-07-14 19:31:36,717 - INFO - 请求耗时: 161.393 ms
+2021-07-14 19:31:36,717 - INFO - 请求耗时: 161.393 ms
+2021-07-14 19:31:36,717 - INFO - 请求耗时: 161.393 ms
+2021-07-14 19:34:19,692 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:35:18,477 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:35:18,632 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:35:18,632 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:35:18,643 - INFO - 订单号: 5832428304
+2021-07-14 19:35:18,643 - INFO - 订单号: 5832428304
+2021-07-14 19:35:18,643 - INFO - 订单号: 5832428304
+2021-07-14 19:35:18,643 - INFO - 订单号: 5832428304
+2021-07-14 19:35:18,643 - INFO - 订单号: 5832428304
+2021-07-14 19:35:18,700 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:35:18,700 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:35:18,700 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:35:18,700 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:35:18,700 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:35:18,861 - INFO - 请求耗时: 155.254 ms
+2021-07-14 19:35:18,861 - INFO - 请求耗时: 155.254 ms
+2021-07-14 19:35:18,861 - INFO - 请求耗时: 155.254 ms
+2021-07-14 19:35:18,861 - INFO - 请求耗时: 155.254 ms
+2021-07-14 19:35:18,861 - INFO - 请求耗时: 155.254 ms
+2021-07-14 19:37:54,331 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:37:54,472 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:37:54,472 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:37:54,485 - INFO - 订单号: 2463262116
+2021-07-14 19:37:54,485 - INFO - 订单号: 2463262116
+2021-07-14 19:37:54,485 - INFO - 订单号: 2463262116
+2021-07-14 19:37:54,485 - INFO - 订单号: 2463262116
+2021-07-14 19:37:54,485 - INFO - 订单号: 2463262116
+2021-07-14 19:37:54,551 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:37:54,551 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:37:54,551 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:37:54,551 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:37:54,551 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:37:54,784 - INFO - 请求耗时: 228.139 ms
+2021-07-14 19:37:54,784 - INFO - 请求耗时: 228.139 ms
+2021-07-14 19:37:54,784 - INFO - 请求耗时: 228.139 ms
+2021-07-14 19:37:54,784 - INFO - 请求耗时: 228.139 ms
+2021-07-14 19:37:54,784 - INFO - 请求耗时: 228.139 ms
+2021-07-14 19:45:57,020 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:45:57,147 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:45:57,147 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:45:57,156 - INFO - 订单号: 9370147143
+2021-07-14 19:45:57,156 - INFO - 订单号: 9370147143
+2021-07-14 19:45:57,156 - INFO - 订单号: 9370147143
+2021-07-14 19:45:57,156 - INFO - 订单号: 9370147143
+2021-07-14 19:45:57,156 - INFO - 订单号: 9370147143
+2021-07-14 19:45:57,229 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:45:57,229 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:45:57,229 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:45:57,229 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:45:57,229 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:45:57,447 - INFO - 请求耗时: 214.726 ms
+2021-07-14 19:45:57,447 - INFO - 请求耗时: 214.726 ms
+2021-07-14 19:45:57,447 - INFO - 请求耗时: 214.726 ms
+2021-07-14 19:45:57,447 - INFO - 请求耗时: 214.726 ms
+2021-07-14 19:45:57,447 - INFO - 请求耗时: 214.726 ms
+2021-07-14 19:45:57,449 - INFO - {'msg': 'java.lang.RuntimeException: com.microsoft.sqlserver.jdbc.SQLServerException: 从数据类型 nvarchar 转换为 numeric 时出错。', 'code': '0'}
+2021-07-14 19:45:57,449 - INFO - {'msg': 'java.lang.RuntimeException: com.microsoft.sqlserver.jdbc.SQLServerException: 从数据类型 nvarchar 转换为 numeric 时出错。', 'code': '0'}
+2021-07-14 19:45:57,449 - INFO - {'msg': 'java.lang.RuntimeException: com.microsoft.sqlserver.jdbc.SQLServerException: 从数据类型 nvarchar 转换为 numeric 时出错。', 'code': '0'}
+2021-07-14 19:45:57,449 - INFO - {'msg': 'java.lang.RuntimeException: com.microsoft.sqlserver.jdbc.SQLServerException: 从数据类型 nvarchar 转换为 numeric 时出错。', 'code': '0'}
+2021-07-14 19:45:57,449 - INFO - {'msg': 'java.lang.RuntimeException: com.microsoft.sqlserver.jdbc.SQLServerException: 从数据类型 nvarchar 转换为 numeric 时出错。', 'code': '0'}
+2021-07-14 19:46:49,024 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:46:49,175 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:46:49,175 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:46:49,187 - INFO - 订单号: 4120929526
+2021-07-14 19:46:49,187 - INFO - 订单号: 4120929526
+2021-07-14 19:46:49,187 - INFO - 订单号: 4120929526
+2021-07-14 19:46:49,187 - INFO - 订单号: 4120929526
+2021-07-14 19:46:49,187 - INFO - 订单号: 4120929526
+2021-07-14 19:46:49,243 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:46:49,243 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:46:49,243 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:46:49,243 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:46:49,243 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:46:49,567 - INFO - 请求耗时: 320.654 ms
+2021-07-14 19:46:49,567 - INFO - 请求耗时: 320.654 ms
+2021-07-14 19:46:49,567 - INFO - 请求耗时: 320.654 ms
+2021-07-14 19:46:49,567 - INFO - 请求耗时: 320.654 ms
+2021-07-14 19:46:49,567 - INFO - 请求耗时: 320.654 ms
+2021-07-14 19:46:49,569 - INFO - {'msg': '成功', 'code': '1', 'data': {'saleno': '21071400001000067', 'saleno2': None}, 'sign': 'NzlcRm7XHMkcc7M4LlST90Xgh7V/6zhCkZAWDhYup5IEEd9FxekKjcDl85JKGaG4we2E5E8KC6vFfwaHl+S7rdsz5MpeSUKvvla6H02RQFx+lhaOwi1fb+1PwXwrymvxPVmOoLybnbYh1Xr2XZdAwMwzxgB7p0nAM0LPnH7jgDAMinnTy5SZD5SIwk0WqMZz0Dig/kyvujMuReNyI3LdWZgK2zr9Ccb5LP2yUeJ7eYeN9r864DaXwxOvDXluNaIAiOc3nQ2/AHhRF8zgXSdy3dFXmQ11kcR4wNLfwlaZ8unulJ0UUVYzqehQeXGbznBl/BbitFJ1i8ujDdPjdEx7AQ=='}
+2021-07-14 19:46:49,569 - INFO - {'msg': '成功', 'code': '1', 'data': {'saleno': '21071400001000067', 'saleno2': None}, 'sign': 'NzlcRm7XHMkcc7M4LlST90Xgh7V/6zhCkZAWDhYup5IEEd9FxekKjcDl85JKGaG4we2E5E8KC6vFfwaHl+S7rdsz5MpeSUKvvla6H02RQFx+lhaOwi1fb+1PwXwrymvxPVmOoLybnbYh1Xr2XZdAwMwzxgB7p0nAM0LPnH7jgDAMinnTy5SZD5SIwk0WqMZz0Dig/kyvujMuReNyI3LdWZgK2zr9Ccb5LP2yUeJ7eYeN9r864DaXwxOvDXluNaIAiOc3nQ2/AHhRF8zgXSdy3dFXmQ11kcR4wNLfwlaZ8unulJ0UUVYzqehQeXGbznBl/BbitFJ1i8ujDdPjdEx7AQ=='}
+2021-07-14 19:46:49,569 - INFO - {'msg': '成功', 'code': '1', 'data': {'saleno': '21071400001000067', 'saleno2': None}, 'sign': 'NzlcRm7XHMkcc7M4LlST90Xgh7V/6zhCkZAWDhYup5IEEd9FxekKjcDl85JKGaG4we2E5E8KC6vFfwaHl+S7rdsz5MpeSUKvvla6H02RQFx+lhaOwi1fb+1PwXwrymvxPVmOoLybnbYh1Xr2XZdAwMwzxgB7p0nAM0LPnH7jgDAMinnTy5SZD5SIwk0WqMZz0Dig/kyvujMuReNyI3LdWZgK2zr9Ccb5LP2yUeJ7eYeN9r864DaXwxOvDXluNaIAiOc3nQ2/AHhRF8zgXSdy3dFXmQ11kcR4wNLfwlaZ8unulJ0UUVYzqehQeXGbznBl/BbitFJ1i8ujDdPjdEx7AQ=='}
+2021-07-14 19:46:49,569 - INFO - {'msg': '成功', 'code': '1', 'data': {'saleno': '21071400001000067', 'saleno2': None}, 'sign': 'NzlcRm7XHMkcc7M4LlST90Xgh7V/6zhCkZAWDhYup5IEEd9FxekKjcDl85JKGaG4we2E5E8KC6vFfwaHl+S7rdsz5MpeSUKvvla6H02RQFx+lhaOwi1fb+1PwXwrymvxPVmOoLybnbYh1Xr2XZdAwMwzxgB7p0nAM0LPnH7jgDAMinnTy5SZD5SIwk0WqMZz0Dig/kyvujMuReNyI3LdWZgK2zr9Ccb5LP2yUeJ7eYeN9r864DaXwxOvDXluNaIAiOc3nQ2/AHhRF8zgXSdy3dFXmQ11kcR4wNLfwlaZ8unulJ0UUVYzqehQeXGbznBl/BbitFJ1i8ujDdPjdEx7AQ=='}
+2021-07-14 19:46:49,569 - INFO - {'msg': '成功', 'code': '1', 'data': {'saleno': '21071400001000067', 'saleno2': None}, 'sign': 'NzlcRm7XHMkcc7M4LlST90Xgh7V/6zhCkZAWDhYup5IEEd9FxekKjcDl85JKGaG4we2E5E8KC6vFfwaHl+S7rdsz5MpeSUKvvla6H02RQFx+lhaOwi1fb+1PwXwrymvxPVmOoLybnbYh1Xr2XZdAwMwzxgB7p0nAM0LPnH7jgDAMinnTy5SZD5SIwk0WqMZz0Dig/kyvujMuReNyI3LdWZgK2zr9Ccb5LP2yUeJ7eYeN9r864DaXwxOvDXluNaIAiOc3nQ2/AHhRF8zgXSdy3dFXmQ11kcR4wNLfwlaZ8unulJ0UUVYzqehQeXGbznBl/BbitFJ1i8ujDdPjdEx7AQ=='}
+2021-07-14 19:47:07,048 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:47:07,205 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:47:07,205 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:47:07,215 - INFO - 订单号: 8865977986
+2021-07-14 19:47:07,215 - INFO - 订单号: 8865977986
+2021-07-14 19:47:07,215 - INFO - 订单号: 8865977986
+2021-07-14 19:47:07,215 - INFO - 订单号: 8865977986
+2021-07-14 19:47:07,215 - INFO - 订单号: 8865977986
+2021-07-14 19:47:07,286 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:47:07,286 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:47:07,286 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:47:07,286 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:47:07,286 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:47:07,682 - INFO - 请求耗时: 392.288 ms
+2021-07-14 19:47:07,682 - INFO - 请求耗时: 392.288 ms
+2021-07-14 19:47:07,682 - INFO - 请求耗时: 392.288 ms
+2021-07-14 19:47:07,682 - INFO - 请求耗时: 392.288 ms
+2021-07-14 19:47:07,682 - INFO - 请求耗时: 392.288 ms
+2021-07-14 19:47:07,684 - INFO - {'msg': '成功', 'code': '1', 'data': {'saleno': '21071400001000068', 'saleno2': None}, 'sign': 'FGto05XT1/n2jVkXiL9vncjj6NP8qeyKl3ulbFwuWGLc02mwg07FcSCdDeyAIN4TBGAOZWPQunjsTMX2C3pFrpUFM4Q9bKX92zSJPgZnRxkUEp9NzaLEG1NdJ5X71J1NCS/xMRc7yWB6oGfOZ7Y1qEqMWfLHBMrR/QU1mHtN8KstKtnu51IXGLX3kmUgi3En0f7Jk21G1MbNVx0gsH/dyZ//iB/KNS2alDGr7ONlQuXlten6lTQGcJW/xHHHrF2G6kkWPmd2qYUJamS3Ob6E/Kd6gXXehGxXPnWLG28BMYZ11ca2r230Pz7Y1s/YYQiXCE3t1/WGMGMOgJYZM/Rc5A=='}
+2021-07-14 19:47:07,684 - INFO - {'msg': '成功', 'code': '1', 'data': {'saleno': '21071400001000068', 'saleno2': None}, 'sign': 'FGto05XT1/n2jVkXiL9vncjj6NP8qeyKl3ulbFwuWGLc02mwg07FcSCdDeyAIN4TBGAOZWPQunjsTMX2C3pFrpUFM4Q9bKX92zSJPgZnRxkUEp9NzaLEG1NdJ5X71J1NCS/xMRc7yWB6oGfOZ7Y1qEqMWfLHBMrR/QU1mHtN8KstKtnu51IXGLX3kmUgi3En0f7Jk21G1MbNVx0gsH/dyZ//iB/KNS2alDGr7ONlQuXlten6lTQGcJW/xHHHrF2G6kkWPmd2qYUJamS3Ob6E/Kd6gXXehGxXPnWLG28BMYZ11ca2r230Pz7Y1s/YYQiXCE3t1/WGMGMOgJYZM/Rc5A=='}
+2021-07-14 19:47:07,684 - INFO - {'msg': '成功', 'code': '1', 'data': {'saleno': '21071400001000068', 'saleno2': None}, 'sign': 'FGto05XT1/n2jVkXiL9vncjj6NP8qeyKl3ulbFwuWGLc02mwg07FcSCdDeyAIN4TBGAOZWPQunjsTMX2C3pFrpUFM4Q9bKX92zSJPgZnRxkUEp9NzaLEG1NdJ5X71J1NCS/xMRc7yWB6oGfOZ7Y1qEqMWfLHBMrR/QU1mHtN8KstKtnu51IXGLX3kmUgi3En0f7Jk21G1MbNVx0gsH/dyZ//iB/KNS2alDGr7ONlQuXlten6lTQGcJW/xHHHrF2G6kkWPmd2qYUJamS3Ob6E/Kd6gXXehGxXPnWLG28BMYZ11ca2r230Pz7Y1s/YYQiXCE3t1/WGMGMOgJYZM/Rc5A=='}
+2021-07-14 19:47:07,684 - INFO - {'msg': '成功', 'code': '1', 'data': {'saleno': '21071400001000068', 'saleno2': None}, 'sign': 'FGto05XT1/n2jVkXiL9vncjj6NP8qeyKl3ulbFwuWGLc02mwg07FcSCdDeyAIN4TBGAOZWPQunjsTMX2C3pFrpUFM4Q9bKX92zSJPgZnRxkUEp9NzaLEG1NdJ5X71J1NCS/xMRc7yWB6oGfOZ7Y1qEqMWfLHBMrR/QU1mHtN8KstKtnu51IXGLX3kmUgi3En0f7Jk21G1MbNVx0gsH/dyZ//iB/KNS2alDGr7ONlQuXlten6lTQGcJW/xHHHrF2G6kkWPmd2qYUJamS3Ob6E/Kd6gXXehGxXPnWLG28BMYZ11ca2r230Pz7Y1s/YYQiXCE3t1/WGMGMOgJYZM/Rc5A=='}
+2021-07-14 19:47:07,684 - INFO - {'msg': '成功', 'code': '1', 'data': {'saleno': '21071400001000068', 'saleno2': None}, 'sign': 'FGto05XT1/n2jVkXiL9vncjj6NP8qeyKl3ulbFwuWGLc02mwg07FcSCdDeyAIN4TBGAOZWPQunjsTMX2C3pFrpUFM4Q9bKX92zSJPgZnRxkUEp9NzaLEG1NdJ5X71J1NCS/xMRc7yWB6oGfOZ7Y1qEqMWfLHBMrR/QU1mHtN8KstKtnu51IXGLX3kmUgi3En0f7Jk21G1MbNVx0gsH/dyZ//iB/KNS2alDGr7ONlQuXlten6lTQGcJW/xHHHrF2G6kkWPmd2qYUJamS3Ob6E/Kd6gXXehGxXPnWLG28BMYZ11ca2r230Pz7Y1s/YYQiXCE3t1/WGMGMOgJYZM/Rc5A=='}
+2021-07-14 19:48:38,593 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:48:38,741 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:48:38,741 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:48:38,752 - INFO - 订单号: 7775179542
+2021-07-14 19:48:38,752 - INFO - 订单号: 7775179542
+2021-07-14 19:48:38,752 - INFO - 订单号: 7775179542
+2021-07-14 19:48:38,752 - INFO - 订单号: 7775179542
+2021-07-14 19:48:38,752 - INFO - 订单号: 7775179542
+2021-07-14 19:48:38,810 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:48:38,810 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:48:38,810 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:48:38,810 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:48:38,810 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:48:39,805 - INFO - 请求耗时: 991.802 ms
+2021-07-14 19:48:39,805 - INFO - 请求耗时: 991.802 ms
+2021-07-14 19:48:39,805 - INFO - 请求耗时: 991.802 ms
+2021-07-14 19:48:39,805 - INFO - 请求耗时: 991.802 ms
+2021-07-14 19:48:39,805 - INFO - 请求耗时: 991.802 ms
+2021-07-14 19:48:39,807 - INFO - {'msg': '成功', 'code': '1', 'data': {'saleno': '21071400001000069', 'saleno2': None}, 'sign': 'CAP6QM/j92VUISoM/YMm93sRrDy59QyS02WTtTPStOqlQzXfQXonkuKweZKcLFPGPrz3AQzv7YNBnKG/ZeYlbf3+MHZiDzYfsx4eLy3Q2HnmO1mRy/Ntpe4/7sU+2rg23IYLLQU4y44sGBuybJ8X9wET0Xhnc9c0XWYwhtONePc9fC2SPs2YpNvTWwdOffB5pYB2WOAGnH/2OqUZE3u5qYKXTRrVgAzawsaVVyw1HBirk4gONZU+QHqLdbRuw9qtOiCPV/nMkyPNB9S/1EtFW4XqOs9FZuMA4h5+qX8QMUYL/nBiGlrWD/+W9L+8h2LEsle6Zchg54JFEJou5tMbQg=='}
+2021-07-14 19:48:39,807 - INFO - {'msg': '成功', 'code': '1', 'data': {'saleno': '21071400001000069', 'saleno2': None}, 'sign': 'CAP6QM/j92VUISoM/YMm93sRrDy59QyS02WTtTPStOqlQzXfQXonkuKweZKcLFPGPrz3AQzv7YNBnKG/ZeYlbf3+MHZiDzYfsx4eLy3Q2HnmO1mRy/Ntpe4/7sU+2rg23IYLLQU4y44sGBuybJ8X9wET0Xhnc9c0XWYwhtONePc9fC2SPs2YpNvTWwdOffB5pYB2WOAGnH/2OqUZE3u5qYKXTRrVgAzawsaVVyw1HBirk4gONZU+QHqLdbRuw9qtOiCPV/nMkyPNB9S/1EtFW4XqOs9FZuMA4h5+qX8QMUYL/nBiGlrWD/+W9L+8h2LEsle6Zchg54JFEJou5tMbQg=='}
+2021-07-14 19:48:39,807 - INFO - {'msg': '成功', 'code': '1', 'data': {'saleno': '21071400001000069', 'saleno2': None}, 'sign': 'CAP6QM/j92VUISoM/YMm93sRrDy59QyS02WTtTPStOqlQzXfQXonkuKweZKcLFPGPrz3AQzv7YNBnKG/ZeYlbf3+MHZiDzYfsx4eLy3Q2HnmO1mRy/Ntpe4/7sU+2rg23IYLLQU4y44sGBuybJ8X9wET0Xhnc9c0XWYwhtONePc9fC2SPs2YpNvTWwdOffB5pYB2WOAGnH/2OqUZE3u5qYKXTRrVgAzawsaVVyw1HBirk4gONZU+QHqLdbRuw9qtOiCPV/nMkyPNB9S/1EtFW4XqOs9FZuMA4h5+qX8QMUYL/nBiGlrWD/+W9L+8h2LEsle6Zchg54JFEJou5tMbQg=='}
+2021-07-14 19:48:39,807 - INFO - {'msg': '成功', 'code': '1', 'data': {'saleno': '21071400001000069', 'saleno2': None}, 'sign': 'CAP6QM/j92VUISoM/YMm93sRrDy59QyS02WTtTPStOqlQzXfQXonkuKweZKcLFPGPrz3AQzv7YNBnKG/ZeYlbf3+MHZiDzYfsx4eLy3Q2HnmO1mRy/Ntpe4/7sU+2rg23IYLLQU4y44sGBuybJ8X9wET0Xhnc9c0XWYwhtONePc9fC2SPs2YpNvTWwdOffB5pYB2WOAGnH/2OqUZE3u5qYKXTRrVgAzawsaVVyw1HBirk4gONZU+QHqLdbRuw9qtOiCPV/nMkyPNB9S/1EtFW4XqOs9FZuMA4h5+qX8QMUYL/nBiGlrWD/+W9L+8h2LEsle6Zchg54JFEJou5tMbQg=='}
+2021-07-14 19:48:39,807 - INFO - {'msg': '成功', 'code': '1', 'data': {'saleno': '21071400001000069', 'saleno2': None}, 'sign': 'CAP6QM/j92VUISoM/YMm93sRrDy59QyS02WTtTPStOqlQzXfQXonkuKweZKcLFPGPrz3AQzv7YNBnKG/ZeYlbf3+MHZiDzYfsx4eLy3Q2HnmO1mRy/Ntpe4/7sU+2rg23IYLLQU4y44sGBuybJ8X9wET0Xhnc9c0XWYwhtONePc9fC2SPs2YpNvTWwdOffB5pYB2WOAGnH/2OqUZE3u5qYKXTRrVgAzawsaVVyw1HBirk4gONZU+QHqLdbRuw9qtOiCPV/nMkyPNB9S/1EtFW4XqOs9FZuMA4h5+qX8QMUYL/nBiGlrWD/+W9L+8h2LEsle6Zchg54JFEJou5tMbQg=='}
+2021-07-14 19:49:35,046 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:49:35,190 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:49:35,190 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:49:35,200 - INFO - 随机生成订单号: 7038810059
+2021-07-14 19:49:35,200 - INFO - 随机生成订单号: 7038810059
+2021-07-14 19:49:35,200 - INFO - 随机生成订单号: 7038810059
+2021-07-14 19:49:35,200 - INFO - 随机生成订单号: 7038810059
+2021-07-14 19:49:35,200 - INFO - 随机生成订单号: 7038810059
+2021-07-14 19:49:35,265 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:49:35,265 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:49:35,265 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:49:35,265 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:49:35,265 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:49:35,764 - INFO - 请求耗时: 495.816 ms
+2021-07-14 19:49:35,764 - INFO - 请求耗时: 495.816 ms
+2021-07-14 19:49:35,764 - INFO - 请求耗时: 495.816 ms
+2021-07-14 19:49:35,764 - INFO - 请求耗时: 495.816 ms
+2021-07-14 19:49:35,764 - INFO - 请求耗时: 495.816 ms
+2021-07-14 19:49:55,745 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:49:55,899 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:49:55,899 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:49:55,911 - INFO - 随机生成订单号: 3377480831
+2021-07-14 19:49:55,911 - INFO - 随机生成订单号: 3377480831
+2021-07-14 19:49:55,911 - INFO - 随机生成订单号: 3377480831
+2021-07-14 19:49:55,911 - INFO - 随机生成订单号: 3377480831
+2021-07-14 19:49:55,911 - INFO - 随机生成订单号: 3377480831
+2021-07-14 19:49:55,960 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:49:55,960 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:49:55,960 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:49:55,960 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:49:55,960 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:49:56,328 - INFO - 请求耗时: 363.993 ms
+2021-07-14 19:49:56,328 - INFO - 请求耗时: 363.993 ms
+2021-07-14 19:49:56,328 - INFO - 请求耗时: 363.993 ms
+2021-07-14 19:49:56,328 - INFO - 请求耗时: 363.993 ms
+2021-07-14 19:49:56,328 - INFO - 请求耗时: 363.993 ms
+2021-07-14 19:50:14,005 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:50:14,156 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:50:14,156 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:50:14,166 - INFO - 随机生成订单号: 3593655626
+2021-07-14 19:50:14,166 - INFO - 随机生成订单号: 3593655626
+2021-07-14 19:50:14,166 - INFO - 随机生成订单号: 3593655626
+2021-07-14 19:50:14,166 - INFO - 随机生成订单号: 3593655626
+2021-07-14 19:50:14,166 - INFO - 随机生成订单号: 3593655626
+2021-07-14 19:50:14,239 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:50:14,239 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:50:14,239 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:50:14,239 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:50:14,239 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:50:14,893 - INFO - 请求耗时: 650.93 ms
+2021-07-14 19:50:14,893 - INFO - 请求耗时: 650.93 ms
+2021-07-14 19:50:14,893 - INFO - 请求耗时: 650.93 ms
+2021-07-14 19:50:14,893 - INFO - 请求耗时: 650.93 ms
+2021-07-14 19:50:14,893 - INFO - 请求耗时: 650.93 ms
+2021-07-14 19:50:40,789 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:50:40,914 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:50:40,914 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:50:40,954 - INFO - 随机生成订单号: 7659593775
+2021-07-14 19:50:40,954 - INFO - 随机生成订单号: 7659593775
+2021-07-14 19:50:40,954 - INFO - 随机生成订单号: 7659593775
+2021-07-14 19:50:40,954 - INFO - 随机生成订单号: 7659593775
+2021-07-14 19:50:40,954 - INFO - 随机生成订单号: 7659593775
+2021-07-14 19:50:41,030 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:50:41,030 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:50:41,030 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:50:41,030 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:50:41,030 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:50:41,385 - INFO - 请求耗时: 345.999 ms
+2021-07-14 19:50:41,385 - INFO - 请求耗时: 345.999 ms
+2021-07-14 19:50:41,385 - INFO - 请求耗时: 345.999 ms
+2021-07-14 19:50:41,385 - INFO - 请求耗时: 345.999 ms
+2021-07-14 19:50:41,385 - INFO - 请求耗时: 345.999 ms
+2021-07-14 19:50:41,386 - ERROR - Error happened in assert_text func, meet error: 
+2021-07-14 19:50:41,386 - ERROR - Error happened in assert_text func, meet error: 
+2021-07-14 19:50:41,386 - ERROR - Error happened in assert_text func, meet error: 
+2021-07-14 19:50:41,386 - ERROR - Error happened in assert_text func, meet error: 
+2021-07-14 19:50:41,386 - ERROR - Error happened in assert_text func, meet error: 
+2021-07-14 19:51:19,362 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:51:19,477 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:51:19,477 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:51:19,485 - INFO - 随机生成订单号: 460278946
+2021-07-14 19:51:19,485 - INFO - 随机生成订单号: 460278946
+2021-07-14 19:51:19,485 - INFO - 随机生成订单号: 460278946
+2021-07-14 19:51:19,485 - INFO - 随机生成订单号: 460278946
+2021-07-14 19:51:19,485 - INFO - 随机生成订单号: 460278946
+2021-07-14 19:51:19,537 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:51:19,537 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:51:19,537 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:51:19,537 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:51:19,537 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:51:20,109 - INFO - 请求耗时: 567.957 ms
+2021-07-14 19:51:20,109 - INFO - 请求耗时: 567.957 ms
+2021-07-14 19:51:20,109 - INFO - 请求耗时: 567.957 ms
+2021-07-14 19:51:20,109 - INFO - 请求耗时: 567.957 ms
+2021-07-14 19:51:20,109 - INFO - 请求耗时: 567.957 ms
+2021-07-14 19:52:27,951 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:52:28,070 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:52:28,070 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:52:28,079 - INFO - 随机生成订单号: 8003891580
+2021-07-14 19:52:28,079 - INFO - 随机生成订单号: 8003891580
+2021-07-14 19:52:28,079 - INFO - 随机生成订单号: 8003891580
+2021-07-14 19:52:28,079 - INFO - 随机生成订单号: 8003891580
+2021-07-14 19:52:28,079 - INFO - 随机生成订单号: 8003891580
+2021-07-14 19:52:28,132 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:52:28,132 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:52:28,132 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:52:28,132 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:52:28,132 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:52:28,471 - INFO - 请求耗时: 335.548 ms
+2021-07-14 19:52:28,471 - INFO - 请求耗时: 335.548 ms
+2021-07-14 19:52:28,471 - INFO - 请求耗时: 335.548 ms
+2021-07-14 19:52:28,471 - INFO - 请求耗时: 335.548 ms
+2021-07-14 19:52:28,471 - INFO - 请求耗时: 335.548 ms
+2021-07-14 19:52:28,473 - INFO - 1
+2021-07-14 19:52:28,473 - INFO - 1
+2021-07-14 19:52:28,473 - INFO - 1
+2021-07-14 19:52:28,473 - INFO - 1
+2021-07-14 19:52:28,473 - INFO - 1
+2021-07-14 19:52:28,475 - ERROR - Error happened in assert_text func, meet error: 
+2021-07-14 19:52:28,475 - ERROR - Error happened in assert_text func, meet error: 
+2021-07-14 19:52:28,475 - ERROR - Error happened in assert_text func, meet error: 
+2021-07-14 19:52:28,475 - ERROR - Error happened in assert_text func, meet error: 
+2021-07-14 19:52:28,475 - ERROR - Error happened in assert_text func, meet error: 
+2021-07-14 19:53:27,954 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:53:28,069 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:53:28,069 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:53:28,081 - INFO - 随机生成订单号: 1558469750
+2021-07-14 19:53:28,081 - INFO - 随机生成订单号: 1558469750
+2021-07-14 19:53:28,081 - INFO - 随机生成订单号: 1558469750
+2021-07-14 19:53:28,081 - INFO - 随机生成订单号: 1558469750
+2021-07-14 19:53:28,081 - INFO - 随机生成订单号: 1558469750
+2021-07-14 19:53:28,139 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:53:28,139 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:53:28,139 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:53:28,139 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:53:28,139 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:53:28,483 - INFO - 请求耗时: 339.862 ms
+2021-07-14 19:53:28,483 - INFO - 请求耗时: 339.862 ms
+2021-07-14 19:53:28,483 - INFO - 请求耗时: 339.862 ms
+2021-07-14 19:53:28,483 - INFO - 请求耗时: 339.862 ms
+2021-07-14 19:53:28,483 - INFO - 请求耗时: 339.862 ms
+2021-07-14 19:53:28,485 - ERROR - Error happened in assert_text func, meet error: 
+2021-07-14 19:53:28,485 - ERROR - Error happened in assert_text func, meet error: 
+2021-07-14 19:53:28,485 - ERROR - Error happened in assert_text func, meet error: 
+2021-07-14 19:53:28,485 - ERROR - Error happened in assert_text func, meet error: 
+2021-07-14 19:53:28,485 - ERROR - Error happened in assert_text func, meet error: 
+2021-07-14 19:53:43,716 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:53:43,858 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:53:43,858 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:53:43,867 - INFO - 随机生成订单号: 4453700502
+2021-07-14 19:53:43,867 - INFO - 随机生成订单号: 4453700502
+2021-07-14 19:53:43,867 - INFO - 随机生成订单号: 4453700502
+2021-07-14 19:53:43,867 - INFO - 随机生成订单号: 4453700502
+2021-07-14 19:53:43,867 - INFO - 随机生成订单号: 4453700502
+2021-07-14 19:53:43,934 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:53:43,934 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:53:43,934 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:53:43,934 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:53:43,934 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:53:44,307 - INFO - 请求耗时: 368.641 ms
+2021-07-14 19:53:44,307 - INFO - 请求耗时: 368.641 ms
+2021-07-14 19:53:44,307 - INFO - 请求耗时: 368.641 ms
+2021-07-14 19:53:44,307 - INFO - 请求耗时: 368.641 ms
+2021-07-14 19:53:44,307 - INFO - 请求耗时: 368.641 ms
+2021-07-14 19:55:05,502 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:55:05,645 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:55:05,645 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:55:05,655 - INFO - 随机生成订单号: 130721367
+2021-07-14 19:55:05,655 - INFO - 随机生成订单号: 130721367
+2021-07-14 19:55:05,655 - INFO - 随机生成订单号: 130721367
+2021-07-14 19:55:05,655 - INFO - 随机生成订单号: 130721367
+2021-07-14 19:55:05,655 - INFO - 随机生成订单号: 130721367
+2021-07-14 19:55:05,714 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:55:05,714 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:55:05,714 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:55:05,714 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:55:05,714 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:55:06,112 - INFO - 请求耗时: 392.05 ms
+2021-07-14 19:55:06,112 - INFO - 请求耗时: 392.05 ms
+2021-07-14 19:55:06,112 - INFO - 请求耗时: 392.05 ms
+2021-07-14 19:55:06,112 - INFO - 请求耗时: 392.05 ms
+2021-07-14 19:55:06,112 - INFO - 请求耗时: 392.05 ms
+2021-07-14 19:55:18,702 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:55:18,823 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:55:18,823 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:55:18,835 - INFO - 随机生成订单号: 6145507314
+2021-07-14 19:55:18,835 - INFO - 随机生成订单号: 6145507314
+2021-07-14 19:55:18,835 - INFO - 随机生成订单号: 6145507314
+2021-07-14 19:55:18,835 - INFO - 随机生成订单号: 6145507314
+2021-07-14 19:55:18,835 - INFO - 随机生成订单号: 6145507314
+2021-07-14 19:55:18,905 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:55:18,905 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:55:18,905 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:55:18,905 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:55:18,905 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:55:19,344 - INFO - 请求耗时: 434.026 ms
+2021-07-14 19:55:19,344 - INFO - 请求耗时: 434.026 ms
+2021-07-14 19:55:19,344 - INFO - 请求耗时: 434.026 ms
+2021-07-14 19:55:19,344 - INFO - 请求耗时: 434.026 ms
+2021-07-14 19:55:19,344 - INFO - 请求耗时: 434.026 ms
+2021-07-14 19:55:19,346 - ERROR - Error happened in assert_text func, meet error: 
+2021-07-14 19:55:19,346 - ERROR - Error happened in assert_text func, meet error: 
+2021-07-14 19:55:19,346 - ERROR - Error happened in assert_text func, meet error: 
+2021-07-14 19:55:19,346 - ERROR - Error happened in assert_text func, meet error: 
+2021-07-14 19:55:19,346 - ERROR - Error happened in assert_text func, meet error: 
+2021-07-14 19:57:00,395 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:57:00,542 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:57:00,542 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:57:00,551 - INFO - 随机生成订单号: 7847932314
+2021-07-14 19:57:00,551 - INFO - 随机生成订单号: 7847932314
+2021-07-14 19:57:00,551 - INFO - 随机生成订单号: 7847932314
+2021-07-14 19:57:00,551 - INFO - 随机生成订单号: 7847932314
+2021-07-14 19:57:00,551 - INFO - 随机生成订单号: 7847932314
+2021-07-14 19:57:00,617 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:57:00,617 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:57:00,617 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:57:00,617 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:57:00,617 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:57:01,896 - INFO - 请求耗时: 272.134 ms
+2021-07-14 19:57:01,896 - INFO - 请求耗时: 272.134 ms
+2021-07-14 19:57:01,896 - INFO - 请求耗时: 272.134 ms
+2021-07-14 19:57:01,896 - INFO - 请求耗时: 272.134 ms
+2021-07-14 19:57:01,896 - INFO - 请求耗时: 272.134 ms
+2021-07-14 19:57:35,478 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:57:35,629 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:57:35,629 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', '000434', 1, 1, -1, 10, '1']]
+2021-07-14 19:57:35,642 - INFO - 随机生成订单号: 517358679
+2021-07-14 19:57:35,642 - INFO - 随机生成订单号: 517358679
+2021-07-14 19:57:35,642 - INFO - 随机生成订单号: 517358679
+2021-07-14 19:57:35,642 - INFO - 随机生成订单号: 517358679
+2021-07-14 19:57:35,642 - INFO - 随机生成订单号: 517358679
+2021-07-14 19:57:35,688 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:57:35,688 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:57:35,688 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:57:35,688 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:57:35,688 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-14 19:57:36,127 - INFO - 请求耗时: 435.06 ms
+2021-07-14 19:57:36,127 - INFO - 请求耗时: 435.06 ms
+2021-07-14 19:57:36,127 - INFO - 请求耗时: 435.06 ms
+2021-07-14 19:57:36,127 - INFO - 请求耗时: 435.06 ms
+2021-07-14 19:57:36,127 - INFO - 请求耗时: 435.06 ms

@@ -1,0 +1,18 @@
+2021-07-13 18:00:37,220 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', 357, 1, 1, -1, 10, '1']]
+2021-07-13 18:00:37,277 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-13 18:00:37,277 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-13 18:00:37,277 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-13 18:00:37,277 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-13 18:00:42,270 - ERROR - Post 请求 http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2 错误: HTTPConnectionPool(host='127.0.0.1', port=8001): Max retries exceeded with url: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))
+2021-07-13 18:00:42,270 - ERROR - Post 请求 http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2 错误: HTTPConnectionPool(host='127.0.0.1', port=8001): Max retries exceeded with url: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))
+2021-07-13 18:00:42,270 - ERROR - Post 请求 http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2 错误: HTTPConnectionPool(host='127.0.0.1', port=8001): Max retries exceeded with url: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))
+2021-07-13 18:00:42,270 - ERROR - Post 请求 http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2 错误: HTTPConnectionPool(host='127.0.0.1', port=8001): Max retries exceeded with url: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))
+2021-07-13 18:00:53,480 - INFO - [['http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2', 357, 1, 1, -1, 10, '1']]
+2021-07-13 18:00:53,567 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-13 18:00:53,567 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-13 18:00:53,567 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-13 18:00:53,567 - INFO - 请求地址: http://hudit-r-h1.test.ydjia.cn/o2o_lingshou_v2
+2021-07-13 18:00:53,734 - INFO - 请求耗时: 164.537 ms
+2021-07-13 18:00:53,734 - INFO - 请求耗时: 164.537 ms
+2021-07-13 18:00:53,734 - INFO - 请求耗时: 164.537 ms
+2021-07-13 18:00:53,734 - INFO - 请求耗时: 164.537 ms
