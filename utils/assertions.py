@@ -14,9 +14,11 @@ class Assertions(object):
         校验response code
         '''
         try:
-            assert('校验status code', expected_code == code)
+            assert expected_code == code
+            return True
         except Exception as e:
             self.logger.error('Error happened in assert_code func, meet error: %s' % e)
+            raise
 
     def assert_body(self, body, expected_key):
         '''
@@ -24,9 +26,10 @@ class Assertions(object):
         '''
         try:
             keys = body.keys()
-            assert('校验响应是否包含字段: %s' % expected_key, expected_key in keys)
+            assert expected_key in keys
         except Exception as e:
             self.logger.error('Error happened in assert_body func, meet error: %s' % e)
+            raise
 
     def assert_value(self, body, expected_value, key):
         '''
@@ -37,3 +40,4 @@ class Assertions(object):
             assert actual_value == expected_value
         except Exception as e:
             self.logger.error('Error happened in assert_text func, meet error: %s' % e)
+            raise

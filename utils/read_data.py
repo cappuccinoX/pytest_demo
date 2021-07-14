@@ -46,7 +46,6 @@ class ReadData(object):
                         cell = True if cell == 1 else False
                     row_data.append(cell)
                 data.append(row_data)
-            self.logger.info(data)
             return data
         except Exception as e:
             self.logger.error(f"读取excel错误: {e}")
