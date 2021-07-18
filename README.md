@@ -2,8 +2,8 @@
 1. 安装python，安装后在命令行输入python --version 检查是否安装成功
 2. 命令行执行 pip install -r requirements.txt 安装项目依赖包
 3. 按照以下命令运行用例
-   a. 命令行运行 pytest -s -v tests/test_oms.py
-   b. 如果需要查看运行报告，命令行运行 pytest -s -v --html=./report/report.html tests/test_oms.py
+   a. 命令行运行 pytest --capture=tee-sys -v tests/test_oms.py
+   b. 如果需要查看运行报告，命令行运行 pytest --capture=tee-sys -v --html=./report/report.html tests/test_oms.py
 
 二、项目目录介绍
 1. common 存放常量
