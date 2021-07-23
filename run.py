@@ -10,9 +10,11 @@ def parse_param(params):
     args = [
         "--capture=tee-sys",
         "-v",
-        "%s/%s" % (os.path.abspath("tests"), testcase),
         "--html=%s/%s_report.html" % (os.path.abspath("report"), timestamp)
     ]
+    if testcase != None:
+        testcase = "%s/%s" % (os.path.abspath("tests"), testcase)
+        args.append(testcase)
     run(args)
 
 def run(args):
@@ -20,8 +22,7 @@ def run(args):
 
 
 if __name__ == "__main__":
-    default_test_case = "%s/test_oms.py" % (os.path.abspath("tests"))
     parser = argparse.ArgumentParser(usage="it's usage tip.", description="help info.")
-    parser.add_argument("--testcase", default=default_test_case)
+    parser.add_argument("--testcase")
     args = parser.parse_args()
     parse_param(args)
